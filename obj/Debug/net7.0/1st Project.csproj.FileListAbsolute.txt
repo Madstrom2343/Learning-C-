@@ -1,0 +1,30 @@
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\1st Project\bin\Debug\net7.0\1st Project.exe
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\1st Project\bin\Debug\net7.0\1st Project.deps.json
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\1st Project\bin\Debug\net7.0\1st Project.runtimeconfig.json
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\1st Project\bin\Debug\net7.0\1st Project.dll
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\1st Project\bin\Debug\net7.0\1st Project.pdb
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\1st Project\obj\Debug\net7.0\1st Project.csproj.AssemblyReference.cache
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\1st Project\obj\Debug\net7.0\1st Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\1st Project\obj\Debug\net7.0\1st Project.AssemblyInfoInputs.cache
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\1st Project\obj\Debug\net7.0\1st Project.AssemblyInfo.cs
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\1st Project\obj\Debug\net7.0\1st Project.csproj.CoreCompileInputs.cache
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\1st Project\obj\Debug\net7.0\1st Project.dll
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\1st Project\obj\Debug\net7.0\refint\1st Project.dll
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\1st Project\obj\Debug\net7.0\1st Project.pdb
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\1st Project\obj\Debug\net7.0\1st Project.genruntimeconfig.cache
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\1st Project\obj\Debug\net7.0\ref\1st Project.dll
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\1st Project (Read & write lines)\bin\Debug\net7.0\1st Project.exe
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\1st Project (Read & write lines)\bin\Debug\net7.0\1st Project.deps.json
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\1st Project (Read & write lines)\bin\Debug\net7.0\1st Project.runtimeconfig.json
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\1st Project (Read & write lines)\bin\Debug\net7.0\1st Project.dll
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\1st Project (Read & write lines)\bin\Debug\net7.0\1st Project.pdb
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\1st Project (Read & write lines)\obj\Debug\net7.0\1st Project.csproj.AssemblyReference.cache
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\1st Project (Read & write lines)\obj\Debug\net7.0\1st Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\1st Project (Read & write lines)\obj\Debug\net7.0\1st Project.AssemblyInfoInputs.cache
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\1st Project (Read & write lines)\obj\Debug\net7.0\1st Project.AssemblyInfo.cs
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\1st Project (Read & write lines)\obj\Debug\net7.0\1st Project.csproj.CoreCompileInputs.cache
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\1st Project (Read & write lines)\obj\Debug\net7.0\1st Project.dll
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\1st Project (Read & write lines)\obj\Debug\net7.0\refint\1st Project.dll
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\1st Project (Read & write lines)\obj\Debug\net7.0\1st Project.pdb
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\1st Project (Read & write lines)\obj\Debug\net7.0\1st Project.genruntimeconfig.cache
+C:\Users\madst\OneDrive\Desktop\Code Stuff\C#\1st Project (Read & write lines)\obj\Debug\net7.0\ref\1st Project.dll
